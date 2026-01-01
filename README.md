@@ -1,3 +1,4 @@
+
 # MalariaDetect
 
 A mobile application for detecting malaria parasites in blood smear images using YOLOv8.
@@ -86,3 +87,6 @@ npm start
 - The YOLOv8 model file (`best.pt`) should be placed in the `backend/models/` directory
 - For Android emulator, the API URL is set to `10.0.2.2:8000`
 - For iOS simulator or web, change the API URL in `src/utils/api.ts` to `localhost:8000` 
+
+# malaria-detection
+7d78ed506b14c1fa80fc7d0bac940e25be6d8e0a
